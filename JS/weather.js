@@ -35,7 +35,7 @@ setInterval(() => {
 
 
     //show weather
-    var key= "fea74d61489aeb266caea601dd5a609e";  
+    var key= "AIzaSyAbkfMbHnkJAx7ZkJSgGZRHD6FE3TfOq30";  
 
     // var url = `https://api.openweathermap.org/data/2.5/weather?q=${inp}&units=imperial&appid=${key}`
     var url = `https://api.openweathermap.org/data/2.5/forecast?q=${inp}&appid=${key}&units=imperial&cnt=7`;
